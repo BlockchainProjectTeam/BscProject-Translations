@@ -2,7 +2,7 @@
 
 ## Create a new language file
 Create a new JS file with the file name `**.js`
-eg: 
+
 * Chinese: 中文: `cn.js`
 * English: `en.js`
 * Korea: 한국어: `ko.js`
@@ -19,8 +19,8 @@ eg:
 lang: "English",
 TVLDeFi: "Total Value Locked in BSC DeFi",
 ```
-1. Only translate the text behind `:`, eg: "English", "Total Value Locked in BSC DeFi".
-2. `English` is replaced with the current language, eg:中文为 `lang: "简体中文"``
+1. Only translate the text behind `:`.  eg: "English", "Total Value Locked in BSC DeFi".
+2. `English` is replaced with the current language. eg: cn.js: `lang: "简体中文"`
 
 ## The following text does not need to be translated, just keep it
 ```
